@@ -1,0 +1,52 @@
+#cronometro {
+  font-size: 50px;
+  text-align: center;
+  color: white;
+  font-family: fantasy;
+
+
+}
+
+
+
+footer{
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  font-family: serif;
+align-self: flex-end;
+
+width: 100%;
+height: 50px;
+
+
+
+
+
+
+
+}
+#todo{
+  background-color: black;
+}
+body{
+  background-color: red;
+}
+h1{
+  text-align: right;
+  font-family: cursive;
+  color:yellow;
+  font-size: 25px;
+}
+h2{
+  text-align: center;
+  color: white;
+  font-family: fantasy;
+  padding-top: 50px;
+  font-size: 60px;
+}
+.pantalla{
+  text-align: right;
+  font-size: 25px;
+  color: white;
+}
